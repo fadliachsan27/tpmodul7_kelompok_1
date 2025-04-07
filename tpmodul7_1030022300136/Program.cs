@@ -1,8 +1,9 @@
 ﻿using System;
 using System.IO;
 using System.Text.Json;
+using System.Collections.Generic;
 
-public class DataMahasiswa_103022300136
+/*public class DataMahasiswa103022300136
 {
     public class Nama
     {
@@ -55,5 +56,49 @@ public class DataMahasiswa_103022300136
             Console.ReadLine();
         }
     }
+}*/
+
+public class MataKuliah
+{
+    public string code { get; set; }
+    public string name { get; set; }
 }
+
+public class KuliahMahasiswa_103022300136
+{
+    public List<MataKuliah> MataKuliah { get; set; }
+
+    public void ReadJSON()
+    {
+        try
+        {
+            string json = File.ReadAllText("tp7_2_103022300136.json"); 
+            KuliahMahasiswa_103022300136 data = JsonSerializer.Deserialize<KuliahMahasiswa_103022300136>(json);
+
+            Console.WriteLine("Daftar mata kuliah yang diambil:");
+            int i = 1;
+            foreach (var mk in data.MataKuliah)
+            {
+                Console.WriteLine($"MK {i} {mk.code} - {mk.name}");
+                i++;
+            }
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine("Gagal membaca file: " + e.Message);
+        }
+    }
+}
+
+class Program
+{
+    static void Main()
+    {
+        KuliahMahasiswa_103022300136 mhs = new KuliahMahasiswa_103022300136();
+        mhs.ReadJSON();
+        Console.ReadLine();
+    }
+}
+
+
 
