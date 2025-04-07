@@ -72,7 +72,7 @@ public class KuliahMahasiswa_103022300078
     {
         try
         {
-            string json = File.ReadAllText("tp7_2_103022300136.json");
+            string json = File.ReadAllText("tp7_2_103022300078.json");
             KuliahMahasiswa_103022300078 data = JsonSerializer.Deserialize<KuliahMahasiswa_103022300078>(json);
 
             Console.WriteLine("Daftar mata kuliah yang diambil:");
