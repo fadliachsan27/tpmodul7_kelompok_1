@@ -13,3 +13,19 @@ E:\Kuliah\Tugas Semester 4\Kontruksi Perangkat Lunak (KPL)\tpmodul7_103022300018
 E:\Kuliah\Tugas Semester 4\Kontruksi Perangkat Lunak (KPL)\tpmodul7_103022300018\obj\Debug\net8.0\tpmodul7_103022300018.genruntimeconfig.cache
 E:\Kuliah\Tugas Semester 4\Kontruksi Perangkat Lunak (KPL)\tpmodul7_103022300018\obj\Debug\net8.0\ref\tpmodul7_103022300018.dll
 E:\Kuliah\Tugas Semester 4\Kontruksi Perangkat Lunak (KPL)\tpmodul7_103022300018\bin\Debug\net8.0\tp7_1_103022300018.json
+C:\TP_KPL\tpmodul7_kelompok_1\tpmodul7_103022300018\bin\Debug\net8.0\tp7_1_103022300018.json
+C:\TP_KPL\tpmodul7_kelompok_1\tpmodul7_103022300018\bin\Debug\net8.0\tpmodul7_103022300018.exe
+C:\TP_KPL\tpmodul7_kelompok_1\tpmodul7_103022300018\bin\Debug\net8.0\tpmodul7_103022300018.deps.json
+C:\TP_KPL\tpmodul7_kelompok_1\tpmodul7_103022300018\bin\Debug\net8.0\tpmodul7_103022300018.runtimeconfig.json
+C:\TP_KPL\tpmodul7_kelompok_1\tpmodul7_103022300018\bin\Debug\net8.0\tpmodul7_103022300018.dll
+C:\TP_KPL\tpmodul7_kelompok_1\tpmodul7_103022300018\bin\Debug\net8.0\tpmodul7_103022300018.pdb
+C:\TP_KPL\tpmodul7_kelompok_1\tpmodul7_103022300018\obj\Debug\net8.0\tpmodul7_103022300018.GeneratedMSBuildEditorConfig.editorconfig
+C:\TP_KPL\tpmodul7_kelompok_1\tpmodul7_103022300018\obj\Debug\net8.0\tpmodul7_103022300018.AssemblyInfoInputs.cache
+C:\TP_KPL\tpmodul7_kelompok_1\tpmodul7_103022300018\obj\Debug\net8.0\tpmodul7_103022300018.AssemblyInfo.cs
+C:\TP_KPL\tpmodul7_kelompok_1\tpmodul7_103022300018\obj\Debug\net8.0\tpmodul7_103022300018.csproj.CoreCompileInputs.cache
+C:\TP_KPL\tpmodul7_kelompok_1\tpmodul7_103022300018\obj\Debug\net8.0\tpmodul7_103022300018.sourcelink.json
+C:\TP_KPL\tpmodul7_kelompok_1\tpmodul7_103022300018\obj\Debug\net8.0\tpmodul7_103022300018.dll
+C:\TP_KPL\tpmodul7_kelompok_1\tpmodul7_103022300018\obj\Debug\net8.0\refint\tpmodul7_103022300018.dll
+C:\TP_KPL\tpmodul7_kelompok_1\tpmodul7_103022300018\obj\Debug\net8.0\tpmodul7_103022300018.pdb
+C:\TP_KPL\tpmodul7_kelompok_1\tpmodul7_103022300018\obj\Debug\net8.0\tpmodul7_103022300018.genruntimeconfig.cache
+C:\TP_KPL\tpmodul7_kelompok_1\tpmodul7_103022300018\obj\Debug\net8.0\ref\tpmodul7_103022300018.dll
