@@ -1,0 +1,15 @@
+E:\Kuliah\Tugas Semester 4\Kontruksi Perangkat Lunak (KPL)\tpmodul7_103022300018\bin\Debug\net8.0\tpmodul7_103022300018.exe
+E:\Kuliah\Tugas Semester 4\Kontruksi Perangkat Lunak (KPL)\tpmodul7_103022300018\bin\Debug\net8.0\tpmodul7_103022300018.deps.json
+E:\Kuliah\Tugas Semester 4\Kontruksi Perangkat Lunak (KPL)\tpmodul7_103022300018\bin\Debug\net8.0\tpmodul7_103022300018.runtimeconfig.json
+E:\Kuliah\Tugas Semester 4\Kontruksi Perangkat Lunak (KPL)\tpmodul7_103022300018\bin\Debug\net8.0\tpmodul7_103022300018.dll
+E:\Kuliah\Tugas Semester 4\Kontruksi Perangkat Lunak (KPL)\tpmodul7_103022300018\bin\Debug\net8.0\tpmodul7_103022300018.pdb
+E:\Kuliah\Tugas Semester 4\Kontruksi Perangkat Lunak (KPL)\tpmodul7_103022300018\obj\Debug\net8.0\tpmodul7_103022300018.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kuliah\Tugas Semester 4\Kontruksi Perangkat Lunak (KPL)\tpmodul7_103022300018\obj\Debug\net8.0\tpmodul7_103022300018.AssemblyInfoInputs.cache
+E:\Kuliah\Tugas Semester 4\Kontruksi Perangkat Lunak (KPL)\tpmodul7_103022300018\obj\Debug\net8.0\tpmodul7_103022300018.AssemblyInfo.cs
+E:\Kuliah\Tugas Semester 4\Kontruksi Perangkat Lunak (KPL)\tpmodul7_103022300018\obj\Debug\net8.0\tpmodul7_103022300018.csproj.CoreCompileInputs.cache
+E:\Kuliah\Tugas Semester 4\Kontruksi Perangkat Lunak (KPL)\tpmodul7_103022300018\obj\Debug\net8.0\tpmodul7_103022300018.dll
+E:\Kuliah\Tugas Semester 4\Kontruksi Perangkat Lunak (KPL)\tpmodul7_103022300018\obj\Debug\net8.0\refint\tpmodul7_103022300018.dll
+E:\Kuliah\Tugas Semester 4\Kontruksi Perangkat Lunak (KPL)\tpmodul7_103022300018\obj\Debug\net8.0\tpmodul7_103022300018.pdb
+E:\Kuliah\Tugas Semester 4\Kontruksi Perangkat Lunak (KPL)\tpmodul7_103022300018\obj\Debug\net8.0\tpmodul7_103022300018.genruntimeconfig.cache
+E:\Kuliah\Tugas Semester 4\Kontruksi Perangkat Lunak (KPL)\tpmodul7_103022300018\obj\Debug\net8.0\ref\tpmodul7_103022300018.dll
+E:\Kuliah\Tugas Semester 4\Kontruksi Perangkat Lunak (KPL)\tpmodul7_103022300018\bin\Debug\net8.0\tp7_1_103022300018.json
